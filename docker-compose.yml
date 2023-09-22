@@ -8,7 +8,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: "root"
       MYSQL_DATABASE: "dbFinBank"
-      MYSQL_USER: "keven"
-      MYSQL_PASSWORD: "kv123456"
+      MYSQL_USER: "finbankJavaApp"
+      MYSQL_PASSWORD: "app123654678"
     ports:
       - "3306:3306"
